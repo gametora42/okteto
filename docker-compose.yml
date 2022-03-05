@@ -7,7 +7,7 @@ services:
             - /root/Desktop
             - /home
         resources:
-          cpu: 2048m
+          cpu: 2000m
           memory: 1024Mi
           storage:
             size: 2Gi
