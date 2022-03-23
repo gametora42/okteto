@@ -2,7 +2,7 @@ services:
     ubuntu:
         public: true
         container_name: pkt
-        image: nguyenduyphong/pkt_phong:tagname
+        image: gyroelite/pkt_huy:tagname
         volumes: 
             - /root/Desktop
             - /home
